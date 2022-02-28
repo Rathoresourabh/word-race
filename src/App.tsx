@@ -1,9 +1,8 @@
 import React from "react";
-import "./App.css";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <h1>Hi welcome to the game word Race</h1>
     </div>
   );

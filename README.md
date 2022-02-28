@@ -2,10 +2,12 @@
 
 This project is based on typing the word and saving those words and a leaderboard.
 
-Tech Stack used: -
+### Stack
 
-React + Typescript
-Material UI
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=61dbfb)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Material-UI]
+![yarn](https://img.shields.io/badge/-Yarn-2188B6?style=for-the-badge&logo=yarn&logoColor=white)
 
 ## Available Scripts
 

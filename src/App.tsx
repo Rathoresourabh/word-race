@@ -1,9 +1,9 @@
-import React from "react";
-
+import React from 'react';
+import Router from './Router';
 function App() {
   return (
     <div>
-      <h1>Hi welcome to the game word Race</h1>
+      <Router />
     </div>
   );
 }
